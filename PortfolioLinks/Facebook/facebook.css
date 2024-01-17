@@ -1,0 +1,25 @@
+.left{
+    margin-top: 17%;
+   }
+   .right{
+       border: 1px solid gray;
+       border-radius: 8px;
+       padding: 10px;
+       margin-top: 15%;
+       box-shadow: rgb(105,103,103) 2px 5px 5px 5px ;
+   
+   }
+   .connexion{
+       width: 100%;
+       background-color: #1876f1;
+       color: white;
+   }
+   .new{
+       background-color: #42b72A;
+   }
+   h1{
+       font-size: 80px;
+   }
+   h5{
+    font-size: 25px;
+   }

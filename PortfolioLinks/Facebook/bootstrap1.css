@@ -1,0 +1,9 @@
+.container{border: 0px solid white;}
+.bordureRouge{ border: 0px solid red; padding: 10px; }
+.bordureVerte{ border: 0px solid green; padding: 10px; }
+.bordureBleue{ border: 3px solid blue; padding: 0px; }
+.bordureJaune{ border: 0px solid yellow; padding: 10px; }
+.bordureOrange{ border: 0px solid orange; padding: 10px;}
+.bordureCyane{border: 4px solid cyan; }
+.bordureBlanche{border:0px solid white; padding: 5px;}
+.bordureLight{border: 3px solid deepskyblue;}
