@@ -47,16 +47,16 @@ function navHighlighter(){
     })
 }
 
-const st = ScrollReveal({
-    origin: 'left',
-    distance: '80px',
-    duration: 2000,
-    reset: false     
-})
+// const st = ScrollReveal({
+//     origin: 'left',
+//     distance: '80px',
+//     duration: 2000,
+//     reset: false     
+// })
 
-st.reveal('.nav',{delay:200})
-st.reveal('.logo',{delay:200})
-st.reveal('.nav-toggler',{delay:200})
+// st.reveal('.nav',{delay:200})
+// st.reveal('.logo',{delay:200})
+// st.reveal('.nav-toggler',{delay:200})
 
 
 
