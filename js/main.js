@@ -65,7 +65,7 @@ const sr = ScrollReveal({
     origin: 'top',
     distance: '80px',
     duration: 2000,
-    reset: true     
+    reset: false    
 })
 
 sr.reveal('.hello',{delay: 100})
@@ -85,7 +85,7 @@ const sp = ScrollReveal({
     origin: 'left',
     distance: '80px',
     duration: 2000,
-    reset: true     
+    reset:false  
 })
 
 sp.reveal('.section-title',{delay: 200})
@@ -98,7 +98,7 @@ const sl = ScrollReveal({
     origin: 'right',
     distance: '30px',
     duration: 2000,
-    reset: true     
+    reset: false
 })
 
 sl.reveal('.portfolio-item',{delay: 200})
@@ -111,7 +111,7 @@ const sa = ScrollReveal({
     origin: 'right',
     distance: '50px',
     duration: 2000,
-    reset: true     
+    reset: false
 })
 
 sa.reveal('.contact-info-item',{delay: 200})
